@@ -1,7 +1,7 @@
-باسلام و خداقوت 
-اطلاعات کاربری ورود ادمین 
+Hi
+admin Login 
 
 
-نام کاربری :admin	
+username :admin	
 
-کلمه عبور : admin
+password : admin
